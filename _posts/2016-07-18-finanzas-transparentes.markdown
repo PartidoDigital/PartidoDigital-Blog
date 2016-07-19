@@ -3,7 +3,7 @@ layout: post
 title:  "Así eligió el Partido Digital manejar sus finanzas de forma transparente, y está a disposición de todos"
 date:   2016-07-18 21:18:00
 categories: Finanzas
-image: PD - OC miniatura.png
+image: open_collective_miniatura.jpg
 author: palonso
 ---
 
@@ -19,13 +19,13 @@ Puedes ver el texto completo de la ley [aquí](https://legislativo.parlamento.gu
 
 En Junio de este año, el periodista Joel Rosenberg en la columna llamada “[La transparencia, cuando la farsa los une](http://www.180.com.uy/articulo/62858_la-transparencia-cuando-la-farsa-los-une)” expresaba qué el “24% del dinero que recibieron los partidos, que llegó del sector privado, tiene un origen confuso, no está declarado como anónimo pero de hecho lo es”. 
 
-![]({{ site.baseurl }}assets/images/posts/PD - Finanzas partidos políticos.jpg)
+![]({{ site.baseurl }}assets/images/posts/finanzas_partidos_políticos.jpg)
 
 La Corte Electoral, organismo competente en ejercer el control de la rendición de cuentas de los partidos, carece de recursos tanto económicos como humanos para ejercer este control y auditar los gastos de los partidos. El Parlamento tampoco parece tener la voluntad política real de legislar sobre este asunto ni los partidos políticos de reunir la información y publicarla. A su vez, no existe evidencia consistente sobre sanciones reales a los partidos políticos, sólo advertencias que ha hecho la Corte pero que quedan en eso, simples advertencias. 
 
 En el Partido Digital, manejar las finanzas de forma transparente fue algo que nos planteamos desde el comienzo. No queremos exigir solo con palabras o propuestas, sino con hechos. Por eso cualquier persona puede analizar nuestras finanzas [aquí](https://opencollective.com/partidodigital). Esto es necesario, porque ante la falta de recursos antes mencionada de la Corte Electoral, si las finanzas están en una caja de cristal, cualquier persona puede verlas, preguntar, indagar y controlar. 
 
-![]({{ site.baseurl }}assets/images/posts/PD - Finanza transparente.png)
+![]({{ site.baseurl }}assets/images/posts/finanza_transparente.jpg)
 
 Otra de las condiciones que marcan nuestro financiamiento, es que no aceptaremos donaciones anónimas. No lo exige la Ley 18.845, pero nos lo exigimos nosotros mismos. Es algo fundamental si queremos ser transparentes. Los partidos políticos debemos obligarnos a hacerlo lo exija o no la Ley. 
 
