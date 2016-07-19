@@ -11,14 +11,12 @@ El manejo de las finanzas de los partidos políticos es algo que siempre está b
 
 Si no tenemos transparencia, damos lugar a que se desarrolle la corrupción, y si hay corrupción el dinero de todos está en el bolsillo de los corruptos y no en dónde beneficia al Uruguay. El Informe de Coyuntura Nro. 13 del Instituto de Ciencia Política liderado por el Dr. Daniel Chasquetti, expresa sobre quienes financian los partidos políticos “los amables donantes no regalan dinero por pura filantropía, sino para obtener beneficios futuros, vinculados a decisiones de gobierno”. Dicho informe también expresa que “el problema de la financiación de la política, se encuentra íntimamente vinculada a la calidad de la democracia”, por tal motivo es que resulta tan relevante la transparencia en las finanzas.
 
-En Uruguay, la financiación de los partidos políticos está regulada por la Sección 2 del Capítulo 2 de la Ley 18.845, la cual establece lo siguiente sobre el financiamiento privado: 
+En Uruguay, la financiación de los partidos políticos está regulada por la Sección 2 del Capítulo 2 de la [Ley 18.845](https://drive.google.com/open?id=0B-D0vZr6FAAOMC1PaDQzd1h3MU0), la cual establece lo siguiente sobre el financiamiento privado: 
 
 1. hasta 4.000 UI ($ 13.760 a valores de julio) se habilitan las donaciones anónimas, 
 2. entre 4.000 y 300.000 UI ($ 1.032.000 a valores de julio) es obligatorio que sean nominativas, 
 3. las empresas concesionarios de servicios públicos pueden donar montos que no superen las 10.000 UI ($ 34.400 a valores de julio), 
 4. prohíbe explícitamente las donaciones de organizaciones delictivas (sic); asociaciones profesionales, gremiales o sindicales; gobiernos, entidades o fundaciones extranjeras; y personas públicas no estatales.
-
-Puedes ver el texto completo de la ley [aquí](https://legislativo.parlamento.gub.uy/temporales/leytemp8639558.htm).
 
 En Junio de este año, el periodista Joel Rosenberg en la columna llamada “[La transparencia, cuando la farsa los une](http://www.180.com.uy/articulo/62858_la-transparencia-cuando-la-farsa-los-une)” expresaba qué el “24% del dinero que recibieron los partidos, que llegó del sector privado, tiene un origen confuso, no está declarado como anónimo pero de hecho lo es”. 
 
