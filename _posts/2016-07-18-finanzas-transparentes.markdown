@@ -11,7 +11,7 @@ El manejo de las finanzas de los partidos políticos es algo que siempre está b
 
 Si no tenemos transparencia, damos lugar a que se desarrolle la corrupción, y si hay corrupción el dinero de todos está en el bolsillo de los corruptos y no en dónde beneficia al Uruguay. El Informe de Coyuntura Nro. 13 del Instituto de Ciencia Política liderado por el Dr. Daniel Chasquetti, expresa sobre quienes financian los partidos políticos “los amables donantes no regalan dinero por pura filantropía, sino para obtener beneficios futuros, vinculados a decisiones de gobierno”. Dicho informe también expresa que “el problema de la financiación de la política, se encuentra íntimamente vinculada a la calidad de la democracia”, por tal motivo es que resulta tan relevante la transparencia en las finanzas.
 
-En Uruguay, la financiación de los partidos políticos está regulada por la Sección 2 de la Ley 18.845, la cual establece lo siguiente sobre el financiamiento privado: 
+En Uruguay, la financiación de los partidos políticos está regulada por la Sección 2 del Capítulo 2 de la Ley 18.845, la cual establece lo siguiente sobre el financiamiento privado: 
 
 1. hasta 4.000 UI ($ 13.760 a valores de julio) se habilitan las donaciones anónimas, 
 2. entre 4.000 y 300.000 UI ($ 1.032.000 a valores de julio) es obligatorio que sean nominativas, 
