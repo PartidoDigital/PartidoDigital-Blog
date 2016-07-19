@@ -13,7 +13,10 @@ Si no tenemos transparencia, damos lugar a que se desarrolle la corrupción, y s
 
 En Uruguay, la financiación de los partidos políticos está regulada por la Sección 2 de la Ley 18.845, la cual establece lo siguiente sobre el financiamiento privado: 
 
-> hasta 4.000 UI ($ 13.760 a valores de julio) se habilitan las donaciones anónimas, entre 4.000 y 300.000 UI ($ 1.032.000 a valores de julio) es obligatorio que sean nominativas, las empresas concesionarios de servicios públicos pueden donar montos que no superen las 10.000 UI ($ 34.400 a valores de julio), prohíbe explícitamente las donaciones de organizaciones delictivas (sic); asociaciones profesionales, gremiales o sindicales; gobiernos, entidades o fundaciones extranjeras; y personas públicas no estatales.
+1. hasta 4.000 UI ($ 13.760 a valores de julio) se habilitan las donaciones anónimas, 
+2. entre 4.000 y 300.000 UI ($ 1.032.000 a valores de julio) es obligatorio que sean nominativas, 
+3. las empresas concesionarios de servicios públicos pueden donar montos que no superen las 10.000 UI ($ 34.400 a valores de julio), 
+4. prohíbe explícitamente las donaciones de organizaciones delictivas (sic); asociaciones profesionales, gremiales o sindicales; gobiernos, entidades o fundaciones extranjeras; y personas públicas no estatales.
 
 Puedes ver el texto completo de la ley [aquí](https://legislativo.parlamento.gub.uy/temporales/leytemp8639558.htm).
 
