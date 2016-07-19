@@ -4,7 +4,7 @@ title:  "Así eligió el Partido Digital manejar sus finanzas de forma transpare
 date:   2016-07-18 21:18:00
 categories: Finanzas
 image: PD - OC miniatura.png
-author: jgraside
+author: palonso
 ---
 
 El manejo de las finanzas de los partidos políticos es algo que siempre está bajo la lupa en nuestro país. Según un [estudio de la organización Global Integrity](https://data.moneypoliticstransparency.org/) estudio de la organización Global Integrity que analizó la transparencia en el financiamiento político, Uruguay ocupa el tercer peor lugar de la región.
