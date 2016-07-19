@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Así eligió el Partido Digital manejar sus finanzas de forma transparente, y está a disposición de todos"
-date:   2015-01-05 15:18:00
+date:   2016-07-18 21:18:00
 categories: Finanzas
 image: PD - OC miniatura.png
 author: jgraside
