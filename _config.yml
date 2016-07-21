@@ -9,7 +9,7 @@ logo: false
 paginate: 15
 baseurl: /
 domain_name: 'http://blog.partidodigital.org.uy'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-64073239-2'
 gems: [jekyll-paginate]
 
 url: 'http://blog.partidodigital.org.uy/'
