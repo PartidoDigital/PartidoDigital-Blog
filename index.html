@@ -33,11 +33,11 @@ title: Inicio
 
     <article class="post">
         <header class="post-header">
-            <h2 class="post-title"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
+            <h2 class="post-title"><a href="{{ site.domain_name }}{{ post.url }}">{{ post.title }}</a></h2>
         </header>
         <section class="post-excerpt">
             <!--{{ post.excerpt }} <br/><a class="read-more" href="{{ site.url }}{{ post.url }}">Leer &raquo;</a>-->
-			<a class="read-more" href="{{ site.url }}{{ post.url }}"><img src="{{ site.baseurl }}assets/images/posts/{{ post.image }}" /></a>
+			<a class="read-more" href="{{ site.domain_name }}{{ post.url }}"><img src="{{ site.baseurl }}assets/images/posts/{{ post.image }}" /></a>
         </section>
         <footer class="post-meta">
             {% assign author = site.data.authors[post.author] %}
