@@ -15,7 +15,7 @@ La respuesta de las mismas no se tardó en llegar.  Y además de su posición en
 
 Este nuevo “tipo de debate“, sin embargo, ya existe, ya se está dando y sucediendo principalmente en ese mundo que llamamos “las redes”. Término en el cual no nos detenemos a pensar demasiado. 
 
-Como nunca falta en este estilo de discusiones, aparecieron peticiones en la plataforma Change.org, sitio en el cual los ciudadanos del mundo realizan peticiones en masa hacia sus legisladores o gobernantes.  La particularidad de esto, es el origen de una de ellas, nada menos que del director  de Innovación y Emprendimientos de la Universidad ORT.
+Como nunca falta en este estilo de discusiones, aparecieron peticiones en la plataforma [Change.org](https://www.change.org/), sitio en el cual los ciudadanos del mundo realizan peticiones en masa hacia sus legisladores o gobernantes.  La particularidad de esto, es el origen de una de ellas, nada menos que del director  de Innovación y Emprendimientos de la Universidad ORT.
 
 <a href="https://www.change.org/p/senadores-respaldo-al-r%C3%A9gimen-de-donaciones-a-las-universidades-privadas" target="_blank"><img src="{{ site.baseurl }}assets/images/posts/change_anular_peticion_1.png" 
 alt="No cambiar el régimen actual de donaciones a las Universidades privadas" width="500" height="263" border="10" /></a>
@@ -33,7 +33,7 @@ Nos llena de esperanza, observar cómo se puede pasar cada vez más rápido de l
 
 Es por eso que creemos que hace falta proveer a los mismos de nuevas herramientas, es por eso que creamos el Partido Digital. 
 
-Una plataforma como Change.org pero con la capacidad de aplicar sus decisiones,  en donde cada ciudadano del país tiene derecho a votar sobre cada una de las elecciones que se toman.
+Una plataforma como [Change.org](https://www.change.org/) pero con la capacidad de aplicar sus decisiones,  en donde cada ciudadano del país tiene derecho a votar sobre cada una de las elecciones que se toman.
 
 Un partido en donde sus representantes, votarán de acuerdo a lo que la ciudadanía le imponga directamente. 
 
