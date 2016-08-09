@@ -7,7 +7,7 @@ image: universidades_privadas.png
 author: dventura
 ---
 
-Este podría haber sido el título de una página de votación, si dentro del Parlamento hubieran legisladores que representen fielmente lo que la gente desea, estos den la oportunidad a los uruguayos de votar sobre los temas que les interesan y que es voto tenga impacto legislativo.
+Este podría haber sido el título de una página de votación. Si dentro del Parlamento hubieran legisladores que representen fielmente lo que la gente desea y den la oportunidad a los uruguayos de votar sobre los temas que les interesan, teniendo impacto legislativo.
 
 Hace unos días se aprobó en nuestro país el artículo 185 de la Rendición de Cuentas, el cual elimina los beneficios fiscales por donaciones de las empresas a universidades privadas. 
 
@@ -43,4 +43,4 @@ El mundo político actual esta viejo, gastado, lento, necesita de nuevas estruct
 
 Si una simple plataforma sin ningún tipo de poder es capaz de lograr que casi 7.500 personas proactivamente se definan sobre un artículo puntual ¿De qué seríamos capaces si incidiera directamente sobre el futuro de nuestro país?
 
-Es hora de darle oportunidad a los uruguayos de participar en la forma que están acostumbrados, de forma rápida, simple, conectada e informada.   El mundo cambió y sin embargo estamos políticamente trancados. No es culpa del sistema en el que estamos, pues la responsabilidad de cambiarlo esta en los más jóvenes, en aquellos que entendemos que estamos todos conectados y con ganas de participar. Son cada vez más los hechos que lo demuestran.
+Es hora de darle oportunidad a los uruguayos de participar en la forma que están acostumbrados, de forma rápida, simple, conectada e informada.   El mundo cambió y sin embargo estamos políticamente trancados. No es culpa del sistema en el que estamos, pues la responsabilidad de cambiarlo esta en los más jóvenes, en aquellos que entendemos que estamos todos conectados y con ganas de participar. 
