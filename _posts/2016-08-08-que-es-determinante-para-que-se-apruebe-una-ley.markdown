@@ -37,7 +37,7 @@ Una plataforma como [Change.org](https://www.change.org/) pero con la capacidad 
 
 Un partido en donde sus representantes, votarán de acuerdo a lo que la ciudadanía le imponga directamente. 
 
-En el caso de esta rendición de cuentas, el artículo en cuestión fue aprobado con apenas 50 votos de un total de 99. Ese voto 50 podría haber pertenecido a los uruguayos, que podrían haber elegido directamente en una plataforma si estaban de acuerdo con esto o no. **Si ese voto perteneciera al Partido Digital, toda esta repercusión y participación que ocurrió en las redes sociales realmente hubiera tenido impacto.**
+En el caso de esta rendición de cuentas, el artículo en cuestión fue aprobado con apenas 50 votos de un total de 99. Ese voto 50 podría haber pertenecido a los uruguayos, que podrían haber elegido directamente en una plataforma si estaban de acuerdo con esto o no. **Si por lo menos uno de esos votos perteneciera al Partido Digital, toda esta repercusión y participación que ocurrió en las redes sociales realmente hubiera tenido impacto.**
 
 El mundo político actual esta viejo, gastado, lento, necesita de nuevas estructuras y sistemas que le permitan fomentar la participación. 
 
