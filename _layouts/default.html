@@ -62,7 +62,7 @@
     <footer class="site-footer clearfix">
       <section class="copyright">
         <a href="{{ site.baseurl }}">{{ site.name }}</a> &copy; 
-              {{date format="YYYY"}} &bull; Todos los derechos reservados.
+              {{date | date: "YYYY"}} &bull; Todos los derechos reservados.
       </section>
       <section class="poweredby">Hecho con Jekyll y   
         <a href="http://github.com/rosario/kasper">Kasper</a>
