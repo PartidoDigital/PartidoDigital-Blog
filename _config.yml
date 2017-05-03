@@ -1,15 +1,23 @@
+---
+title: El blog del Partido Digital
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 name: El blog <i>del Partido Digital</i>
 description: Transparencia y más participación. Una entrada a la vez.
-meta_description: "El blog del Partido Digital. Transparencia y más participación."
-title: El blog del Partido Digital
-
+meta_description: El blog del Partido Digital. Transparencia y más participación.
 markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: /
-domain_name: 'https://blog.partidodigital.org.uy'
-google_analytics: 'UA-64073239-2'
-gems: [jekyll-paginate]
-
-url: 'https://blog.partidodigital.org.uy/'
+baseurl: "/"
+domain_name: https://blog.partidodigital.org.uy
+google_analytics: UA-64073239-2
+gems:
+- jekyll-paginate
+url: https://blog.partidodigital.org.uy/

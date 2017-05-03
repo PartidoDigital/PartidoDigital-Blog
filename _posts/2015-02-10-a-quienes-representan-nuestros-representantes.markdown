@@ -1,8 +1,9 @@
 ---
+title: "¿A quiénes representan nuestros representantes?"
+date: 2015-02-10 18:27:00 Z
+categories:
+- Representacion
 layout: post
-title:  "¿A quiénes representan nuestros representantes?"
-date:   2015-02-10 18:27:00
-categories: Representacion
 image: representantes.png
 author: jgraside
 ---

@@ -1,8 +1,10 @@
 ---
+title: Así eligió el Partido Digital manejar sus finanzas de forma transparente, y
+  está a disposición de todos
+date: 2016-07-18 21:18:00 Z
+categories:
+- Finanzas
 layout: post
-title:  "Así eligió el Partido Digital manejar sus finanzas de forma transparente, y está a disposición de todos"
-date:   2016-07-18 21:18:00
-categories: Finanzas
 image: open_collective_miniatura.jpg
 author: palonso
 ---

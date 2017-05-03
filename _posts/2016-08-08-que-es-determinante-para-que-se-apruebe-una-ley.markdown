@@ -1,8 +1,10 @@
 ---
+title: 'VOTÁ: ¿Estás de acuerdo con que le quiten los beneficios fiscales a las empresas
+  que donan a universidades privadas?'
+date: 2016-08-08 15:18:00 Z
+categories:
+- Leyes
 layout: post
-title:  "VOTÁ: ¿Estás de acuerdo con que le quiten los beneficios fiscales a las empresas que donan a universidades privadas?"
-date:   2016-08-08 15:18:00
-categories: Leyes
 image: universidades_privadas.png
 author: dventura
 ---

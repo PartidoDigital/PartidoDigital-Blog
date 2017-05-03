@@ -1,8 +1,9 @@
 ---
+title: "¿Qué es determinante para que se apruebe una ley?"
+date: 2015-01-05 15:18:00 Z
+categories:
+- Leyes
 layout: post
-title:  "¿Qué es determinante para que se apruebe una ley?"
-date:   2015-01-05 15:18:00
-categories: Leyes
 image: ley.png
 author: jgraside
 ---

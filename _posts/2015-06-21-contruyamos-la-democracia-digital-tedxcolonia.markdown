@@ -1,8 +1,9 @@
 ---
+title: '"Construyamos la democracia digital" en TEDxColonia'
+date: 2015-06-21 18:27:00 Z
+categories:
+- Democracia
 layout: post
-title:  '"Construyamos la democracia digital" en TEDxColonia'
-date:   2015-06-21 18:27:00
-categories: Democracia
 image: tedxcolonia.png
 author: jgraside
 ---
