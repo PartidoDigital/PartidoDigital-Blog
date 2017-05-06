@@ -44,7 +44,7 @@ layout: default
             <img class="author-thumb" src="https://s.gravatar.com/avatar/{{ author.gravatar }}" alt="Avatar del autor" nopin="nopin" />
             {{ author.name }}
             {% if post.categories.size > 0 %} 
-                {{ post.categories | array_to_sentence_string: 'y' | prepend: 'en ' }} 
+                {{ post.categories | array_to_sentence_string: 'y' | replace: '-', ' ' | prepend: 'en ' }} 
             {% endif %}
             <time class="post-date">
                 {% assign m = post.date | date: "%-m" %}
