@@ -80,6 +80,7 @@ En cuanto a institucionalidad plantea las siguientes propuestas a considerar:
 
 Los indicadores deberán definirse de forma de poder medir los aspectos sobre los que actúan y los resultados de las acciones específicas a realizar. Sin embargo el BID propone indicadores generales que sirven para establecer la gravedad de la situación actual de forma comparable con otros casos:
 
+Principales Indicadores ICES relativos a Seguridad Ciudadana y Convivencia Social
 ![]({{ site.baseurl }}assets/images/posts/indicadores.png)
 
 Si el valor de un indicador se encuentra en el rango definido como verde, la situación es aceptable. Si el valor se encuentra en el rango amarillo es una situación que se debe atender y mejorar. Si el valor se encuentra en rojo la situación es urgente y debe ser prioritario mejorar ese aspecto. Esta metodología de semaforización puede ser utilizada para los indicadores particulares que se definan, facilitando la priorización de las acciones a realizar.
