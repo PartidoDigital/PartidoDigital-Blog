@@ -2,7 +2,7 @@
 title: 'La visión del BID sobre el tema Seguridad'
 date: 2017-05-05 15:15:00 Z
 categories:
-- aeguridad
+- seguridad
 - programa-de-gobierno
 layout: post
 image: seguridad.jpg
