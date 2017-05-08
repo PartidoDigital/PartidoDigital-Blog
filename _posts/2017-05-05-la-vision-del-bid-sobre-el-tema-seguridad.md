@@ -11,11 +11,11 @@ author: aguevara
 
 En el Partido Digital fomentamos la construcción colaborativa de leyes y políticas públicas. Un punto central de dicha colaboración es que todos puedan participar, de forma de que ninguna idea quede afuera, y todas las ideas aporten a encontrar la mejor solución.
 
-Esta metodología hace posible que ideas innovadoras y que están fuera del paradigma dominante puedan llegar a hacerse realizar y lograr grandes mejoras. Sin embargo esto no implica excluir y mucho menos negar los aportes de gente experta en el tema, tanto porque estudia el tema académicamente o porque tiene experiencia trabajando en el mismo. Por tanto, el incluir diversos puntos de vista, implica incluir estudios y propuestas ya realizadas de diversas organizaciones, tanto nacionales como internacionales.
+Esta metodología hace posible que ideas innovadoras y que están fuera del paradigma dominante puedan llegar a hacerse realidad y lograr grandes mejoras. Sin embargo esto no implica excluir y mucho menos negar los aportes de gente experta en el tema, tanto porque estudia el tema académicamente o porque tiene experiencia trabajando en el mismo. Por tanto, el incluir diversos puntos de vista, implica incluir estudios y propuestas ya realizadas de diversas organizaciones, tanto nacionales como internacionales.
 
-En el caso del BID dentro de su curso [Liderando el Desarrollo Sostenible de las Ciudades](https://www.edx.org/course/liderando-el-desarrollo-sostenible-de-idbx-idb4x-2) plantea su visión de cómo hay que encarar el tema de seguridad.
+El BID, dentro de su curso [Liderando el Desarrollo Sostenible de las Ciudades](https://www.edx.org/course/liderando-el-desarrollo-sostenible-de-idbx-idb4x-2), plantea su visión de cómo hay que encarar el tema de seguridad.
 
-Dicha visión se basa en estudios e información que aportan observatorios como las del BID mismo y los de la OEA. Algunos de los diagnósticos que se realizan sobre le tema son:
+Dicha visión se basa en estudios e información que aportan observatorios como los del BID mismo y los de la OEA. Algunos de los diagnósticos que se realizan sobre le tema son:
 
 - Los delitos y las violencias se concentran en territorios particulares y segmentos sociales específicos
 - Hay importantes niveles de “no reporte” de ilícitos y hechos de violencia, que el sistema no llega a conocer. La existencia de múltiples delitos que no son reportados requiere mayor atención por parte del Estado ya que, entre otras cosas, terminan propiciando desigualdad o inequidad en el acceso a los servicios de seguridad y de justicia. 
